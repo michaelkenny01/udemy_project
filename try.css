@@ -1,0 +1,30 @@
+.parent{
+    position: relative;
+    width: 98vw;
+    height: 60vh;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child{
+    position: absolute;
+    width: 90vw;
+    height: 50vh;
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.children{
+    width: 17vw;
+    height: 45vh;
+    background-color: blue;
+    border: 1px solid black;
+    top: 8%;
+}
+.pic{
+    width: inherit;
+    height: inherit;
+}

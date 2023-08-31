@@ -1,0 +1,904 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+header{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* box-shadow: ; */
+}
+header img{
+    width: 10vw;
+    height: 10vh;
+}
+.all{
+     width: 25vw !important;
+    align-items: center;
+    justify-content: center; 
+    
+ 
+}
+.jiji{
+    height: 120px;
+}
+.goy p{
+    font-size: 1px !important;
+
+font-family: Arial, Helvetica, sans-serif;
+}
+.kpk{
+    justify-content: left;
+    align-items: center;
+    display: flex;
+}
+.buttt{
+    border-radius: 10px !important;
+    background-color: blanchedalmond;
+}
+.rodo{
+    border-radius: 10%;
+}
+.div{
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header input{
+    width: 35vw;
+    height: 7vh;
+    padding-left: 7vh;
+    border-radius: 30px;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid black;
+}
+.search{
+    position: absolute;
+    margin-left: 3px;
+    top: 10px;
+    color: gray;
+    height: 5px;
+    width: 3px;
+    
+}
+#search{
+    width: 2px;
+    height: 3px;
+}
+.div2{
+    display: flex;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: blue;
+}
+.btnDiv{
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn1{
+    background-color: gray;
+    border: 1px solid black;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.btn1,
+.btn2,
+.btn3{
+    height: 45px;
+    width: 80px;
+    font-weight: bold;
+    border-radius: 10%;
+}
+.btn3{
+    background-color: transparent;
+    width: 50px !important;
+    border: 1px solid black;
+}
+.board{
+    background-image: url(udemy2.jpg); 
+    background-size: cover;
+    height: 60vh;
+    width: 100vw; 
+    margin-bottom: 25px;
+
+} 
+.kk{
+    width: 100vw;
+    
+    margin-bottom: 30px;
+}
+.ser{
+    width: 30px;
+    height: 35px;
+}
+.hop{
+    border-radius: 10%;
+}
+.centerpartners{
+    font-size: 20px;
+    color: gray;
+}
+.partners{
+    height: 35vh;
+    /* width: 80vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(224, 216, 216);
+    /* border: 1px solid black; */
+margin-bottom: 50px;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    width: inherit;
+}
+.gut{
+     height: 20vh;
+width: 6vw;
+}
+.centerpartners{
+height: 30vh;
+width: 85vw;
+display: flex;
+flex-direction: column;
+/* border: 1px solid black; */
+align-items: center;
+position: relative;
+justify-content: space-around;
+}
+.all{
+    width: 30vw;
+    height: 40vh;
+   
+    background-color: white;
+}
+.h{
+    color: black !important;
+}
+.all{
+    width: 21vw;
+    height: 22vh;
+    font: bold;
+    display: flex;
+    flex-direction: column;
+    left: 5%;
+    border: 2px solid rgb(204, 195, 195);
+
+    background-color: whitesmoke;
+    top: 16vh;
+    position: absolute;
+}
+.der{
+    width: 20vw;
+    height: 7vh;
+    
+}
+.red{
+    width: 20vw;
+    height: 14vh;
+    
+}
+.big{
+    font-size: 15px;
+    /* font-weight: 150px; */
+}
+.sectionwithpad{
+padding: 0px 20px;
+}
+.Courses h1{
+    font-size: 27px;
+    color: rgb(36, 35, 35);
+}
+.Courses p{
+    font-size: 20px;
+    margin: 20px 0px;
+
+}
+.sub{
+    width: 50vw;
+    justify-content: space-between;
+    font-weight: 900;
+    display: flex;
+    margin: 10px 0px;
+
+}
+.sub a{
+    color: rgb(214, 186, 186) !important;
+}
+.sub a:hover{
+    color: black;
+}
+.teach{
+    height: 80vh;
+    
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cent{
+    height: 70vh;
+    width: 90%;
+    /* border: 1px solid black; */
+}
+
+.cent h1{
+    font-size: 25px;
+}
+.cent p{
+    width: 60vw;
+    font-size: 18px;
+    font-weight: 500;
+}
+.buttt{
+    width: 150px;
+    font-size: 15px;
+    padding: 10px;
+    margin-bottom: 30px;
+
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+   
+  
+}
+.cardcon{
+    width: 19%;
+    height: 30vh;
+}
+.cardcon img{
+    width: 100%;
+} 
+.cardcon:hover{
+    opacity: 0.8;
+}
+.bo{
+    font-size: 13px;
+}
+.fo{
+    font-size: 15px;
+    color: rgb(124, 118, 118);
+}
+
+.dropy{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.dropy{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.concon{
+    height: 20vh;
+    width: 255px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: beige;
+    position: absolute;
+    display: none;
+    top: 11vh;
+}
+.dropy:hover .concon{
+    display: flex;
+}
+.bobo button{
+    height: 5vh;
+    width: 15vw;
+    background-color: black;
+    color: white;
+    border: none;
+    /* font-weight: ; */
+}
+.dodo{
+    height: 11vh;
+    width: 9vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.tediv{
+    height: 11vh;
+    width: 9vw;
+    align-items: center;
+    display: flex;
+}
+.tecon{
+    height: 18vh;
+    width: 270px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    position: absolute;
+    display: none;
+}
+.tedrop:hover .tecon{
+    display: flex;
+}
+.lolo button{
+    height: 5vh;
+    width: 15vw;
+    background-color: black;
+    color: white;
+    border: none;
+    font-weight: 300;
+}
+.condrop{
+    padding: 20px;
+    height: 80vh;
+    width: 200px;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    position: absolute;
+    display: none;
+    z-index: 1;
+
+}
+.lo{
+    color: rgb(15, 15, 9);
+    font-weight: bolder;
+    font-size: 25px;
+    padding-left: -16px;
+
+}
+.jo{
+    font-size: 15px;
+}
+.star{
+    color: rgb(252, 252, 48);
+    font-weight: bolder;
+    font-size: 25px;
+}
+.div{
+    height: 11vh;
+    width: inherit;
+}
+.wedrop:hover .condrop{
+    display: flex !important;
+}
+.blo{
+   
+    height: 72vh;
+    
+    display: flex;
+    width: 98%;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.flo{
+    height: 85vh;
+   
+    display: flex;
+    width: 98%;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.rodo{
+    background-color: rgb(248, 248, 18);
+}
+.top{
+    height: 50vh;
+    width: 90%;
+    /* border: 1px solid black; */
+}
+.kop{
+    height: 10px;
+    width: 85%;
+}
+.top h1{
+    font-size: 25px;
+}
+.carry{
+    width: 98vw;
+    height: 100vh;
+    position: relative;
+    border: 1px solid transparent;
+    background-color: white;
+}
+.sra .shift{
+   left: 4vw !important; 
+}
+.inner{
+    width: 90vw;
+    height: 89vh;
+    position: absolute;
+    top: 9%;
+    left: 5%;
+    border: 1px solid transparent;
+    background-color: rgb(235, 227, 227);
+    display: flex;
+    flex-direction: row;
+   
+    justify-content: space-between;
+}
+.xyz{
+    width: 200px;
+}
+.cint{
+    display: flex;
+    flex-direction: column;
+}
+.top p{
+    width: 60vw;
+    font-size: 18px;
+    font-weight: 500;
+}
+.shift{
+    padding: 30px;
+    top: 1px;
+}
+.nono{
+    width: 105%;
+    height: 50vh;
+    background-color: rgb(228, 231, 231);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+.bono{
+    width: 105%;
+    height: 75vh;
+    background-color: rgb(228, 231, 231);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+.momo{
+    width: 31%;
+    height: 40vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+
+.homo{
+    width: 31%;
+    height: 40vh;
+    background-color: white;
+display: flex;
+align-items: center;
+    justify-content: space-around;
+
+}
+.py{
+    width: 280px;
+    height: 38vh;
+    background-color: rgb(255, 255, 255);
+}
+
+.ad{
+    padding-left: 10px;
+}
+
+button{
+    
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: black;
+    
+}
+.as{
+    color: white;
+    font-weight: bolder;
+}
+.boo{
+    color: white;
+    font-weight: bolder;
+}
+.btb{
+    border: 1px solid blue;
+    border-radius: 50%;
+    background-color: rgb(66, 66, 185);
+    padding: 5px;
+}
+.sign{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.abeg{
+    color: blue;
+}
+del{
+    color: white;
+}
+hr{
+    background-color: rgb(241, 218, 218);
+}
+.scope{
+    padding-left: 21px;
+}
+.dro{
+    color: white;
+}
+.fak{
+    font-size: 2px;
+}
+.flexbox{
+    height: 80vh;
+display: flex;
+justify-content:  space-evenly;
+    flex-wrap: wrap;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+}
+.flexbox section{
+    border: 2px solid transparent;
+   background-color: rgb(231, 222, 222);
+background-repeat: no-repeat;
+height: 30vh;
+width: 20vw;
+text-align: center;
+}
+img{
+    height: 25vh;
+width: 19vw;
+}
+
+.car{
+    width: 98vw;
+    height: 70vh;
+    position: relative;
+    
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carp{
+    width: 98vw;
+    height: 50vh;
+    position: relative;
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pass{
+    display: flex;
+    justify-content: space-around;
+    width: 95vw;
+    height: 55vh;
+    position: absolute;
+    top: 5%;
+    left: 3%;
+    border: 1px solid grey;
+    background-color: rgb(247, 239, 239);
+}
+h2{
+    color: blue;
+}
+.hio{
+    border-radius: 10%;
+    background-color: white;
+    color: black;
+    padding: 10px;
+}
+.move{
+    padding: 15px;
+    color: black !important;
+}
+.motor{
+    width: 95vw;
+    height: 6vh;
+    /* top: 4%; */
+    left: 10%;
+   
+}
+.query{
+    width: 22.5vw;
+    height: 45vh;
+    
+}
+.abc{
+    width: inherit;
+    height: inherit;
+}
+.no{
+    color: black !important;
+}
+.pasg{
+    width: 60vw;
+    height: 45vh;
+    display: flex;
+    border: 1px solid transparent;
+}
+.skill-text, .skill-image{
+    width: 30vw;
+    height: 43vh;
+    border: 1px solid transparent;
+}
+del{
+    color: rgb(247, 239, 239);
+}
+.xyzz{
+    border-radius: 10%;
+    color: wheat;
+    padding: 5px;
+}
+.zyxx{
+     border-radius: 10%;
+    color: wheat;
+    padding: 5px;
+}
+.dre{
+    width: 95vw;
+    height: 47vh;
+   
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.pico{
+    width: 95vw;
+    height: 47vh;
+   
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-bottom: 50px;
+}
+.bico{
+    width: 70vw;
+    height: 45vh;
+    background-color: white;
+    top: 1%;
+    align-items: center;
+    position: absolute;
+    display: flex;
+    
+}
+.h22{
+    color: black !important;
+}
+.conf{
+    
+    width: 25vw;
+    
+}
+.kiko{
+    height: 45vh;
+    width: 35vw;
+    
+}
+.kikoo{
+    height: 45vh;
+    width: 35vw;
+   
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.fin{
+    width: inherit;
+    height: inherit;
+}
+.condre{
+    width: 70vw;
+    height: 45vh;
+    background-color: white;
+   
+    top: 1%;
+    /* justify-content: center; */
+    align-items: center;
+    position: absolute;
+    display: flex;
+    
+}
+
+.oyaa{
+    background-color: black;
+    color: white;
+    border-radius: 10%;
+    padding: 10px;
+}
+.colo{
+    width: 95vw;
+    height: 8vh;
+   
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.solo{
+    width: 70vw;
+    height: 6vh;
+    background-color: white;
+   
+    top: 1%;
+    /* justify-content: center; */
+    align-items: center;
+    position: absolute;
+    display: flex;
+    
+}
+.dare{
+    font-size: 20px;
+}
+.cha{
+    width: 25vw;
+    height: 6vh;
+    
+}
+.chacha{
+    width: 45vw;
+    height: 6vh;
+    
+}
+.imag{
+    width: 47vw;
+    height: 45vh;
+    
+
+}
+.aka img{
+    width: 110px;
+    height: 140px;
+}
+h3{
+    color: blue;
+}
+.aka{
+    border-radius: 50%;
+    border: 1px solid white !important;
+    background-color: rgb(230, 233, 235);
+   
+    justify-content: center;
+    padding: 24px;
+}
+.h2{
+    color: black !important;
+}
+.h3{
+    text-decoration: underline;
+}
+
+.image{
+    width: 15vw;
+    height: 45vh;
+    
+}
+.belle{
+    position: relative;
+    height: 50vh;
+    width: 96vw;
+    background-color: black;
+    border: 1px solid white;
+    justify-self: center;
+    align-items: center;
+    
+    display: flex;  
+}
+.pelle{
+    position: absolute;
+    height: 45vh;
+    width: 90vw;
+    background-color: black;
+   
+    top: 1%;
+    align-items: center;
+    left: 4%;
+    display: flex;
+}
+.gar{
+    height: 45vh;
+    width: 15vw;
+    
+    color: white;
+}
+.garr{
+    height: 45vh;
+    width: 15vw;
+    background-color: rgb(43, 41, 41);
+    color: white;
+}
+.gari{
+    height: 45vh;
+    width: 20vw;
+   
+    color: white;
+   
+}
+.drt{
+    align-items: flex-end;
+    justify-content: left;
+    display: flex;
+    flex-direction: column;
+}
+.bh{
+    color: white;
+    align-items: flex-end;
+}
+.dredy{
+    color: black !important;
+}
+.cvcv{
+    border-radius: 10%;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+.kol{
+    width: 150px;
+    height: 65px;
+}
+.tar{
+    height: 45vh;
+    width: 30vw;
+    color: white;
+   
+}
+.final{
+    width: 97.3%;
+    height: 10vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: black;
+}
+.infin{
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 8vh;
+    position: absolute;
+    
+    display: flex;
+}
+.zaza{
+    color: wheat;
+}
+
+
+
+
